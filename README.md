@@ -2,8 +2,13 @@
 
 
 
-### How It Works:
-- `![App Screenshot 1](assets/images/menu.png)` and `![App Screenshot 2](assets/images/detailsPizza.png)`
+### Restaurant Menu:
+<img src="assets/images/menu.png" width="300" style="display: inline-block; margin-right: 10px;" />
+
+
+### Deatails item:
+
+<img src="assets/images/detailsPizza.png" width="300" style="display: inline-block;" />
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
