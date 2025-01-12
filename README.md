@@ -1,5 +1,10 @@
 # Welcome to your Expo app 👋
 
+
+
+### How It Works:
+- `![App Screenshot 1](assets/images/menu.png)` and `![App Screenshot 2](assets/images/detailsPizza.png)`
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
